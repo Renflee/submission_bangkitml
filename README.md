@@ -1,7 +1,4 @@
-# submission_bangkitml
- Renfred Leeman
- 
-# Dicoding Collection Dashboard ✨
+# ✨ Bike Sharing Dashboard Renfred Leeman✨
 
 ## Setup Environment - Anaconda
 ```bash
