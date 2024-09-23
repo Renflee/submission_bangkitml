@@ -11,8 +11,10 @@ pip install -r requirements.txt
 ```
 ## Setup Environment - Shell/Terminal
 ```bash
-conda create --name main-ds python=3.9
-conda activate main-ds
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+pipenv install
+pipenv shell
 pip install -r requirements.txt
 ```
 
